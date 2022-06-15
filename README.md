@@ -16,7 +16,7 @@
     <img src="src\images\logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Ethereum Explorer</h3>
 
   <p align="center">
     Awesome project to find Ethereum domain name services
